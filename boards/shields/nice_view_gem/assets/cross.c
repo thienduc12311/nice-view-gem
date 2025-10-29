@@ -1319,8 +1319,8 @@ const lv_img_dsc_t cross = {
     .header.cf = LV_IMG_CF_INDEXED_1BIT,
     .header.always_zero = 0,
     .header.reserved = 0,
-    .header.w = 408,
-    .header.h = 408,
+    .header.w = 68,
+    .header.h = 68,
     .data_size = 20816,
     .data = cross_map,
 };
